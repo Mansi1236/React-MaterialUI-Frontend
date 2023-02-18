@@ -1,5 +1,5 @@
 import React from 'react';
-import { Typography, AppBar, CardContent, CssBaseline, Toolbar, Container,Grid, Card, CardActions, CardMedia, Button } from '@material-ui/core';
+import { Typography, AppBar, CssBaseline, Toolbar, Container} from '@material-ui/core';
 import { Movie } from '@material-ui/icons';
 
 const Navbar = () => {
