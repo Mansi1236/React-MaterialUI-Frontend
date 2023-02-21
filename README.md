@@ -1,5 +1,5 @@
 ## React and Material UI frontend 
-### The project is deployed on Netlify. It is a simple frontend application where you can find all of the list of Pixar movies and watch their trailers released till February 2023
+### The project is deployed on Netlify. It is a simple frontend application where you can find the list of all the Pixar movies released till February 2023 and watch their trailer
 ## Link of the application hosted on Netlify  \-> [React-MaterialUI-Frontend](https://glowing-bunny-a003b0.netlify.app/)
 
 
