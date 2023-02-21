@@ -3,6 +3,8 @@
 ## Link of the application hosted on Netlify  \-> [React-MaterialUI-Frontend](https://glowing-bunny-a003b0.netlify.app/)
 
 
+## * About the Project and tech stacks used *
+
 ### Using components from Material UI core library like Typography, AppBar, CssBaseline, Toolbar, Container,Grid, Card, CardActions, CardMedia, Button etc.
 #### import { Typography, AppBar, CssBaseline, Toolbar, Container} from '@material-ui/core';
 
