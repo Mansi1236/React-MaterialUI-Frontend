@@ -1,4 +1,8 @@
 ## React and Material UI frontend 
+### The project is deployed on Netlify. It is a simple frontend application where you can find all of the list of Pixar movies and watch their trailers released till February 2023
+## Link of the application hosted on Netlify  \-> [React-MaterialUI-Frontend](https://glowing-bunny-a003b0.netlify.app/)
+
+
 ### Using components from Material UI core library like Typography, AppBar, CssBaseline, Toolbar, Container,Grid, Card, CardActions, CardMedia, Button etc.
 #### import { Typography, AppBar, CssBaseline, Toolbar, Container} from '@material-ui/core';
 
